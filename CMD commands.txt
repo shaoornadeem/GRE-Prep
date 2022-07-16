@@ -5,4 +5,4 @@ git commit -m "anycomment"
 git remote add origin https://github.com/shaoornadeem/GRE-Prep.git
 git push -u origin master
 username shaoornadeem
-password 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
+password accesstoken
